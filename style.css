@@ -1,3 +1,20 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.one, .two, .three, .four, .five {
+    padding: 0 300px;
+}
+
+.one {
+    background-color: green;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .logo {
     max-width: 100px;
 }
+
