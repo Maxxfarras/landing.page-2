@@ -14,7 +14,7 @@ body {
     align-items: center;
 }
 
-.logo {
+#logo {
     max-width: 100px;
 }
 
@@ -23,3 +23,15 @@ body {
     gap: 20px;
 }
 
+.container-two {
+    background-color: rgb(167, 167, 167);
+    padding: 20px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#intro-img {
+    max-width: 300px;
+}
