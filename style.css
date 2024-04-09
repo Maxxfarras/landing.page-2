@@ -4,7 +4,7 @@ body {
 }
 
 .one, .two, .three, .four, .five {
-    padding: 0 300px;
+    padding: 20px 300px;
 }
 
 .one {
@@ -16,5 +16,10 @@ body {
 
 .logo {
     max-width: 100px;
+}
+
+.header-right {
+    display: flex;
+    gap: 20px;
 }
 
