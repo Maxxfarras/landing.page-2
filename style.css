@@ -68,6 +68,7 @@ button {
 
 .three {
     text-align: center;
+    background-color: rgb(206, 206, 206);
 }
 
 h3 {
@@ -78,4 +79,8 @@ h3 {
 .cards {
     display: flex;
     justify-content: space-between;
+}
+
+.card-img {
+    max-width: 300px;
 }
