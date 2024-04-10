@@ -65,3 +65,17 @@ button {
     max-width: 300px;
     border-radius: 20px;
 }
+
+.three {
+    text-align: center;
+}
+
+h3 {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+}
