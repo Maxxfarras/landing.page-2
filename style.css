@@ -142,3 +142,14 @@ h3 {
     font-size: 30px;
     font-weight: bold;
 }
+
+.six {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+}
