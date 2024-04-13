@@ -68,7 +68,7 @@ button {
 
 .three {
     text-align: center;
-    background-color: rgb(206, 206, 206);
+    /* background-color: rgb(206, 206, 206); */
 }
 
 h3 {
@@ -92,6 +92,10 @@ h3 {
     text-align: center;
     font-size: 25px;
     font-weight: bold;
+}
+
+.four {
+    background-color: rgb(206, 206, 206);
 }
 
 .quote {
